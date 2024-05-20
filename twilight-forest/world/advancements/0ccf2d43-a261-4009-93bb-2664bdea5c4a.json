@@ -1,0 +1,21 @@
+{
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-05-20 23:14:45 +0800"
+    },
+    "done": true
+  },
+  "morevillagers:root": {
+    "criteria": {
+      "always": "2024-05-20 23:14:18 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:savanna": "2024-05-20 23:14:18 +0800"
+    },
+    "done": false
+  },
+  "DataVersion": 2975
+}
